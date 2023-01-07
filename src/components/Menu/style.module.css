@@ -1,0 +1,15 @@
+.menu {
+    backdrop-filter: blur(10px);
+    background-color: #ffffff33;
+    padding: 1rem;
+    border-radius: 16px;
+    text-align: right;
+}
+.menu h2 {
+    text-align: center;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding: 1rem 0 1.5rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px white solid;
+}
